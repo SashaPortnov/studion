@@ -1,6 +1,5 @@
 FROM node:24-slim AS builder
 
-ARG VITE_API_URL=/api
 ENV VITE_API_URL=$VITE_API_URL
 
 WORKDIR /frontend
