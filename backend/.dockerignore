@@ -8,8 +8,4 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-<<<<<<< HEAD
 .git
-=======
-.git
->>>>>>> dev
